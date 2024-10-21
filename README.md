@@ -1,4 +1,4 @@
-<h2> Hey👋🏼, Ragophala Pasca Moshukumadi here!</h2>
+<h2> Hey👋🏼, Pasca Ragophala here!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
