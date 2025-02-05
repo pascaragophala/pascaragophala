@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about exploring new technologies, developing innovative software solutions, and solving complex problems.
-- 🎓 &nbsp; Final year student in Computer Science and Informatics at the University of Johannesburg.
+- 🎓 &nbsp; Graduate in Computer Science and Informatics at the University of Johannesburg.
 - 🌱 &nbsp; Currently enhancing my skills in Cloud Development, Full-Stack Web Development, AI principles, and Oracle Billing and Revenue Management (BRM).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
